@@ -1,0 +1,14 @@
+.hero {
+    background: #3f3d56;
+}
+
+.work {
+    padding-top: 1rem;
+}
+footer {
+    background-color: whitesmoke;
+    width: 100%;
+}
+.round-corners {
+    border-radius: 5px;
+}
